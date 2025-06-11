@@ -1,1 +1,1 @@
-console.log('Feature added');
+console.log('Init app');
